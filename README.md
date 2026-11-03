@@ -43,4 +43,4 @@ Note: identifiers and the console UI are in Slovak (school assignment).
 
 ## Author
 
-Samuel Bachratý – second-year Information Security student at BUT Brno (FEKT).
+Samuel Bachratý 
